@@ -1,0 +1,42 @@
+
+:root{
+    --gray-main:rgb(73, 71, 71);
+}
+
+.form-container{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form{
+    padding: 20px;
+    background-color: var(--gray-main);
+}
+
+.form-title{
+    text-align: center;
+}
+
+.form-text{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.form input{
+    width: 100%;
+    color: var(--gray-main);
+    padding: 4px;
+}
+.submit{
+    color:var(--gray-main);
+    padding: 5px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.form-title{
+    font-size: 30px;
+}

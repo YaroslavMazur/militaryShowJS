@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initialscale=1.0, maximum-scale=3.0, minimum-scale=0.5">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel = "stylesheet" type = "text/css" href = "/main.css">
+    <link rel = "stylesheet" type = "text/css" href = "cabinet.css">
+    <link rel = "icon" href="icon_web.png">
+
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/alasql@1.7"></script>
+    
+    <title>MilitaryShop</title>
+</head>
+<body>
+
+    <header class = "container-fluid">
+        
+        <nav class = "container">
+            <a class = "menu-content" id = "itr"  href = "/main.html">MilitaryShop</a>
+        </nav>
+
+        <nav class ="container2">
+            <div class="burger-icon">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+
+            <div class = "burger-elements">
+                <a class="menu-content" href = "/cabinet/cabinet.html">PROFILE</a>
+                <p class = "menu-content cart-open" onclick="open_cart()">CART</p>
+                
+                <a class="menu-content" href = "/news/news.html">NEWS</a>
+                <a class="menu-content" href = "/register/register.html">SIGN UP</a>
+                <a class="menu-content" href = "/login/login.html">LOG IN</a>
+            </div>
+        </nav>
+    </header>
+
+    <div class = "cartPlace"></div>
+    
+    <div class = "cabinetUser-container">
+        <div class = "cabinetUser-panel">
+            <p class = "cabinet-title">PROFILE</p>
+            <div class = "cabinet-header">
+                <p class = "email-text">Email</p>
+                <button class = "user-logout">EXIT</button>
+            </div>
+
+        </div>
+    </div>
+    
+    <footer>
+        <p>Made by Mazur Yaroslav</p>
+    </footer>
+    
+    <script src="/cabinet/cabinet.js"></script>
+    <script src="/cart.js"></script>
+    <script src="/burgerMenu.js"></script>
+    
+</body>
+</html> 

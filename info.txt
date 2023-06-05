@@ -1,0 +1,47 @@
+Leopard 2
+5000000$
+Tank
+The Leopard 2 is a third generation German main battle tank (MBT). Developed by Krauss-Maffei in the 1970s, the tank entered service in 1979 and replaced the earlier Leopard 1 as the main battle tank of the West German army.
+leopard2.jpg
+|||
+Abrams M2
+6000000$
+Tank
+The M1 Abrams entered service in 1980 and serves as the main battle tank of the United States Army and formerly of the United States Marine Corps (USMC).The export version is used by the armies of Egypt, Kuwait, Saudi Arabia, Australia, Poland and Iraq.
+abrams.jpg
+|||
+T-72
+3000000$
+Tank
+The T-72 is a family of Soviet/Russian main battle tanks that entered production in 1969.[9] The T-72 was a development of the T-64, which was troubled by high costs and its reliance on immature developmental technology.
+t-72.jpg
+|||
+Chalanger 2
+5000000$
+Tank
+The FV4034 Challenger 2 (MoD designation "CR2") is a third generation British main battle tank (MBT) in service with the armies of the United Kingdom and Oman.The Challenger 2 has a crew of four. The main armament is a L30A1 120-millimetre (4.7 in) rifled tank gun, an improved derivative of the L11 gun used on the Chieftain and Challenger 1
+chalanger2.jpg
+|||
+F-16
+20000000$
+Plane
+The General Dynamics F-16 Fighting Falcon is an American single-engine multirole fighter aircraft originally developed by General Dynamics for the United States Air Force (USAF). Designed as an air superiority day fighter, it evolved into a successful all-weather multirole aircraft.
+F-16.jpg
+|||
+F-35
+6000000$
+Plane
+The Lockheed Martin F-35 Lightning II is an American family of single-seat, single-engine, all-weather stealth multirole combat aircraft that is intended to perform both air superiority and strike missions. It is also able to provide electronic warfare and intelligence, surveillance, and reconnaissance capabilities
+F-35.jpg
+|||
+Leclerc
+4000000$
+Tank
+The Leclerc is a third-generation French main battle tank developed and manufactured by Nexter Systems. It was named in honor of Marshal Philippe Leclerc de Hauteclocque, a commander of the Free French Forces, who led the 2nd Armoured Division in World War II.
+leclerc.jpg
+|||
+Oplot-M
+4200000$
+Tank
+The Oplot-M (Modernised) or BM Oplot is an upgraded version of the T-84 Oplot MBT. The tank has a conventional layout with the driver’s compartment at the front, fighting compartment in the middle and engine at the rear, accommodating a crew of three members.
+oplot.jpg
